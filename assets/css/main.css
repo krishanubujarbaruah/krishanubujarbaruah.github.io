@@ -1,5 +1,9 @@
 @import url(fontawesome-all.min.css);
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@500&display=swap" rel="stylesheet');
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -291,7 +295,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #ff4d4d !important;
 		}
 
 	strong, b {
@@ -2071,7 +2075,7 @@ input, select, textarea {
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Gloria Hallelujah', cursive;
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -2208,8 +2212,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #ef1847;
-			color: #ef1847 !important;
+			box-shadow: inset 0 0 0 2px #ff4d4d;
+			color: #ff4d4d !important;
 		}
 
 		input[type="submit"].primary,
@@ -2227,7 +2231,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ef1847;
+				background-color: #ff4d4d;
 			}
 
 /* Form */
@@ -2306,7 +2310,7 @@ input, select, textarea {
 
 	label {
 		display: block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Gloria Hallelujah', cursive;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -2484,7 +2488,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ef1847;
+			border-color: #ff4d4d;
 		}
 
 	select {
@@ -2519,7 +2523,7 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #ef1847;
+		border-color: #ff4d4d;
 	}
 
 	::-webkit-input-placeholder {
@@ -2883,7 +2887,7 @@ input, select, textarea {
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #ef1847;
+		color: #ff4d4d;
 	}
 
 	ul.icons.alt li .icon:before {
@@ -2891,7 +2895,7 @@ input, select, textarea {
 	}
 
 	ul.icons.alt li a.icon:hover:before {
-		box-shadow: inset 0 0 0 2px #ef1847;
+		box-shadow: inset 0 0 0 2px #ff4d4d;
 	}
 
 /* Section/Article */
@@ -3190,14 +3194,14 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #ef1847 !important;
-			border-color: #ef1847;
+			color: #ff4d4d !important;
+			border-color: #ff4d4d;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #ef1847;
+				border-left-color: #ff4d4d;
 			}
 
 		.pagination a.active {
@@ -3317,7 +3321,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #ef1847 !important;
+				color: #ff4d4d !important;
 			}
 
 		#intro strong, #intro b {
@@ -3356,8 +3360,8 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #ef1847;
-				color: #ef1847 !important;
+				box-shadow: inset 0 0 0 2px #ff4d4d;
+				color: #ff4d4d !important;
 			}
 
 			#intro input[type="submit"].primary,
@@ -3375,7 +3379,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #ef1847;
+					background-color: #ff4d4d;
 				}
 
 		#intro h1 {
@@ -3526,7 +3530,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #ef1847 !important;
+				color: #ff4d4d !important;
 			}
 
 		#header strong, #header b {
@@ -3559,9 +3563,9 @@ input, select, textarea {
 			border-style: solid;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: 'DM Mono', monospace;
 			font-size: 2.25rem;
-			font-weight: 900;
+			font-weight: 750;
 			letter-spacing: 0.075em;
 			line-height: 1;
 			padding: 1rem 1.75rem;
@@ -3570,8 +3574,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #ef1847 !important;
-				color: #ef1847 !important;
+				border-color: #ff4d4d !important;
+				color: #ff4d4d !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3625,7 +3629,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #ef1847;
+			color: #ff4d4d;
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3633,7 +3637,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #ef1847;
+			box-shadow: inset 0 0 0 2px #ff4d4d;
 		}
 
 		#nav input, #nav select, #nav textarea {
@@ -3647,7 +3651,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #ef1847 !important;
+				color: #ff4d4d !important;
 			}
 
 		#nav strong, #nav b {
@@ -3684,7 +3688,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: 'Reenie Beanie', cursive;
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			list-style: none;
@@ -3723,7 +3727,7 @@ input, select, textarea {
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #ef1847 !important;
+							color: #ff4d4d !important;
 						}
 
 		#nav ul.icons {
@@ -3967,7 +3971,7 @@ input, select, textarea {
 
 			#footer a:hover {
 				border-bottom-color: transparent;
-				color: #ef1847 !important;
+				color: #ff4d4d !important;
 			}
 
 		#footer strong, #footer b {
@@ -4010,8 +4014,8 @@ input, select, textarea {
 			#footer input[type="button"]:hover,
 			#footer button:hover,
 			#footer .button:hover {
-				box-shadow: inset 0 0 0 2px #ef1847;
-				color: #ef1847 !important;
+				box-shadow: inset 0 0 0 2px #ff4d4d;
+				color: #ff4d4d !important;
 			}
 
 			#footer input[type="submit"].primary,
@@ -4029,7 +4033,7 @@ input, select, textarea {
 				#footer input[type="button"].primary:hover,
 				#footer button.primary:hover,
 				#footer .button.primary:hover {
-					background-color: #ef1847;
+					background-color: #ff4d4d;
 				}
 
 		#footer label {
@@ -4049,7 +4053,7 @@ input, select, textarea {
 			#footer input[type="email"]:focus,
 			#footer select:focus,
 			#footer textarea:focus {
-				border-color: #ef1847;
+				border-color: #ff4d4d;
 			}
 
 		#footer select {
@@ -4084,7 +4088,7 @@ input, select, textarea {
 
 		#footer input[type="checkbox"]:focus + label:before,
 		#footer input[type="radio"]:focus + label:before {
-			border-color: #ef1847;
+			border-color: #ff4d4d;
 		}
 
 		#footer ::-webkit-input-placeholder {
@@ -4112,7 +4116,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons li a.icon:hover:before {
-			color: #ef1847;
+			color: #ff4d4d;
 		}
 
 		#footer ul.icons.alt li .icon:before {
@@ -4120,7 +4124,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #ef1847;
+			box-shadow: inset 0 0 0 2px #ff4d4d;
 		}
 
 		#footer header.major .date:before, #footer header.major .date:after {
@@ -4160,14 +4164,14 @@ input, select, textarea {
 		}
 
 			#footer .pagination a:hover {
-				color: #ef1847 !important;
-				border-color: #ef1847;
+				color: #ff4d4d !important;
+				border-color: #ff4d4d;
 				z-index: 1;
 			}
 
 				#footer .pagination a:hover + a,
 				#footer .pagination a:hover + span {
-					border-left-color: #ef1847;
+					border-left-color: #ff4d4d;
 				}
 
 			#footer .pagination a.active {
@@ -4380,7 +4384,7 @@ input, select, textarea {
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Gloria Hallelujah', cursive;
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4404,7 +4408,7 @@ input, select, textarea {
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #ef1847 !important;
+				color: #ff4d4d !important;
 			}
 
 		#copyright strong, #copyright b {
@@ -4490,7 +4494,7 @@ input, select, textarea {
 		right: 0.75rem;
 		border: 0;
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Reenie Beanie', cursive;
 		font-size: 0.9rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4508,7 +4512,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Reenie Beanie', cursive;
 			font-weight: 900;
 		}
 
