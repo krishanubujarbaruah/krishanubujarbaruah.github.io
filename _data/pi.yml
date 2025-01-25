@@ -1,18 +1,17 @@
-- name: Abhilekh Borah
+- name: Krishanu Bujarbaruah
   photo: cropped_image.png
-  info: Abhilekh Borah, CS Undergrad, Manipal University Jaipur
-  email: abhilekh.229301149@muj.manipal.edu
-  github: https://github.com/abhilekhborah
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?hl=en&user=iZG9MEMAAAAJ
-  linkedin: https://www.linkedin.com/in/abhilekh-borah-aa758a15a/
+  info: Krishanu Bujarbaruah, CS Undergrad, Manipal University Jaipur
+  email: krishanu.229301409@muj.manipal.edu
+  # github: https://github.com/abhilekhborah
+  # researchgate: https://www.researchgate.net/
+  # scholar: https://scholar.google.com/citations?hl=en&user=iZG9MEMAAAAJ
+  linkedin: https://www.linkedin.com/in/krishanubujarbaruah/
   cv: cv/Abhilekh's CV (v3).pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(2022-2026) Bachelor of Technology in Computer Science and Engineering, Manipal University Jaipur",
-      "(2020-2022) High School Diploma, Delhi Public School, Numaligarh",
+      "[2022-2026] Bachelor of Technology in Computer Science and Engineering, Manipal University Jaipur"
     ]
 
   educationshort:
-    ["(2022-2026) B.Tech. CSE, Manipal University Jaipur", "(2022) HS Diploma, DPS Numaligarh"]
+    ["[2022-2026] B.Tech. in CSE, Manipal University Jaipur"]
