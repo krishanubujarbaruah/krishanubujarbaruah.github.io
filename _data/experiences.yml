@@ -1,20 +1,27 @@
-- company_name: Indian Institute of Technology, Guwahati
+- company_name: Indian Institute of Technology, Kanpur
   company_logo: images.png
-  position: <b>Summer Research Intern</b>
-  start_date: 15/05/2024
-  end_date: 10/07/2024
-  description: Worked under the guidance of Prof. Debanga Raj Neog to develop a Continuous Sign Language Recognition and Translation Framework that interprets gloss from sign language videos and converts it into spoken sentences. This two-part system includes a Video-to-Gloss model using CNN and Bi-LSTM for spatiotemporal feature extraction and sequence modeling, and a Gloss-to-Text Retrieval System utilizing Transformer architectures for natural language understanding and generation. Additionally, it features an emotion model based on valence-arousal theory, employing multimodal sentiment analysis to analyze and classify the emotional content in the sign language video. The framework also includes a TTS synthesis module based on WaveNet and Tacotron models to generate the translated text as audio.
+  position: <b>Project Associate</b>
+  start_date: 1/1/2025
+  end_date: 31/3/2025
+  description: Working under the guidance of [Prof. Koumudi P. Patil - DoD] conceptualizing, implementing a game dev lab, incorporating state-of-the-art VR systems, motion tracking, and haptics - creating immersive/interactive gameplay experiences. I'm working on Thali Gameplay, where players are given randomly designed default thalis each day, resembling a regular meal. The players must modify these thalis using the provided food options, aiming to balance several factors such as happiness index, immunity score, budget, calorie intake, and carbon footprint, all while considering the character’s pre-existing medical conditions like hypertension and insulin resistance.
 
-- company_name: Indian Institute of Information Technology, Allahabad
+- company_name: Indian Institute of Technology, Bombay
   company_logo: IIIT-Allahabad.png
   position: <b>Research Intern</b>
-  start_date: 27/01/2024
-  end_date: 18/07/2021
-  description: Worked under the guidance of Prof. Anupam Agrawal to develop a Deep Learning framework for understanding and analyzing crowd behaviors in video footage, focusing on the detection of anomalies and unusual events. The framework utilizes Computer Vision concepts such as LSTM, ConvNets, and MIL to develop a deep anomaly classification model that categorizes video segments into eight distinct real-life crimes.
+  start_date: 20/05/2024
+  end_date: 10/08/2024
+  description: Worked under the guidance of [Prof. Anirudha Joshi - Head, Industrial Design Centre] on the intersection of usability and security, developing a graphical user interface application that leveraged LLMs to categorize user-generated images into password-forming arrays.
 
-- company_name: Indian Institute of Science Education and Research, Kolkata
+- company_name: Indian Institute of Technology, Guwahati
   company_logo: 10001.png
   position: <b>Research Intern</b>
-  start_date: 20/10/2023
-  end_date: 30/06/2024
-  description: Worked under the guidance of Prof. Kripabandhu Ghosh to develop a novel Ayurveda Retrieval Framework that inputs patient-like representations, correlates them with medical representations, and predicts the correct Ayurvedic disease based on Ayurvedic symptoms (Doshas, Dhatus, Srotas). The framework utilizes a curated dataset sourced from Ayurvedic institute doctors, ensuring its novelty.  Our approach has demonstrated remarkable effectiveness, achieving a score 77.01 percent higher than vanilla large language models. Specifically, the framework uses Gemini Pro as its core component, while integrating RAG to augment its capabilities with domain-specific Ayurvedic knowledge. This combination allows for more accurate and contextually relevant predictions of Ayurvedic diseases based on patient representations.
+  start_date: 30/05/2024
+  end_date: 28/07/2024
+  description: Worked under the guidance of [Prof. Sharmistha Banerjee - SSI Lab, DoD] designing and implementing a "cave-man on an island" game environment in Unreal Engine investigating theinfluence of diverse vibrotactile haptics on user interaction, engagement within a gaming context. Also, we developed a comprehensive database cataloging commercially available game controllers, focusing on hapticmechanisms, market impact, and user perception.
+
+- company_name: Zankla Studio
+  company_logo: 10001.png
+  position: <b>Design & Operations Intern</b>
+  start_date: 30/08/2022
+  end_date: 02/12/2023
+  description: Worked under the guidance of [Mr. Kirat Brahma - Founder, ZS] revamping website design and product visuals, boosting sales and customer satisfaction through improved userexperience, innovative packaging, and brand visibility. Also, led inventory optimization & collaborated with artisans, negotiated lucrative partnerships + 15% market grab.
