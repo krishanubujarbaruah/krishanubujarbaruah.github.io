@@ -1,9 +1,9 @@
 # Site settings
-title: Abhilekh Borah
-email: abhilekh.229301149@muj.manipal.edu
-description: Academic webpage of Abhilekh Borah
+title: Krishanu Bujarbaruah
+email: krishanu.229301409@muj.manipal.edu
+description: Academic webpage of Krishanu Bujarbaruah
 baseurl: ""
-url: "https://abhilekhborah.github.io"
+url: "https://krishanubujarbaruah.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -12,7 +12,7 @@ url: "https://abhilekhborah.github.io"
 
 # Footer info
 affiliation: >
-  Abhilekh Borah<br/>
+  Krishanu Bujarbaruah<br/>
   CS Major<br/>
   Manipal University Jaipur
 
@@ -22,7 +22,7 @@ location: >
   Jaipur, Rajasthan 303007
 
 contact: >
-  <a href="mailto:abhilekh.229301149@muj.manipal.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Abhilekh via email</a> <br/>
+  <a href="mailto:krishanu.229301409@muj.manipal.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Krishanu via email</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
