@@ -30,8 +30,8 @@ nav_pages:
   # - name: publications
   # - name: talks
   - name: projects
-  - name: research
-  - name: music
+  # - name: research
+  # - name: music
   - name: gallery
 
 include:
