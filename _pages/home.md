@@ -7,25 +7,15 @@ permalink: /
 
 ### Welcome!
 
-<i><b>"The real problem is not whether machines think but whether men do." – B.F. Skinner</b></i>
+i'm on a mission to make technology more playful, intuitive, and maybe a bit unconventional :)
 
-hey there! 👋 hope you're doing great! welcome to my corner of the internet. here, you'll find all the cool projects As a design researcher, I explore the human mind and behaviour to build products and experiences that are delightful, simple, and innovative. I create sleek and functional user experiences that enhance brand visibility and drive customer engagement.
+hey there! 👋 hope you're doing great! welcome to my corner of the internet. whether you're here to check out my projects, collaborate on something awesome, or just chat about the future of human-computer interaction, welcome aboard! 
 
-feel free to explore my projects, and if you want to know more about me, just head over to the "About" section! enjoy your stay! 🌻
+i believe in the power of play to solve problems and in technology's ability to bring people together. as a design researcher, i have been exploring the human mind and behaviour to build products and experiences that are delightful, simple, and innovative to designing quirky controllers (ever played a game with a color-sensing glove?), I'm all about pushing the boundaries of how we interact with technology.
 
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Portfolio banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/><br/><br/>
-Frameworks/Applications I love to work with. <br/>
-</center>
-</div>
-</div>
-<br/>
+feel free to explore my projects! enjoy your stay! 🌻
 
-### About me
-
-I am a pre-final year student pursuing Bachelor of Technology in Computer Science and Engineering, at Manipal University Jaipur, India.
-I completed my High School education from Delhi Public School, Numaligarh. 
+i am a pre-final year student pursuing Bachelor of Technology in Computer Science and Engineering, at Manipal University Jaipur, India. 
+my goal? To create experiences that make people go "Wow, I didn't know computers could do that!"
 
 
