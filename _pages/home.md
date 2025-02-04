@@ -33,3 +33,5 @@ i treat my work as a journal of exploration. every prototype, sketch, or researc
   co-founded and scaled a mobile application that enhanced campus life for over 10,000 students at manipal university jaipur.  
 
 - **google X techstars startup weekend '22 – winner**
+
+i draw inspiration from all nooks and crannies from media like games, sketches and movies to mundane everyday experiences, all of it contributes to my vision.
