@@ -16,4 +16,24 @@ feel free to explore my projects! if you're a high-schooler or undergrad who's i
 i am a pre-final year student pursuing Bachelor of Technology in Computer Science and Engineering, at Manipal University Jaipur, India. 
 my goal? To create experiences that make people go "Wow, I didn't know computers could do that!"
 
+### milestones: 
+
+- **Smart India Hackathon 2024 – Winner**  
+  Developed an innovative solution for a real-world challenge under the world's largest open innovation model.  
+
+- **Participatory Design Conference 2024 – Poster Presenter**  
+  Presented the poster, "Game Development for Artisans to Educate Them About Basic Business Strategies and Keywords," at IIT Bombay.  
+
+- **Google Creator Conversations 2023 – Best Group**  
+  Recognized as the top group out of 80 peers for work on the Notes feature in Search Labs' Edu vertical.  
+
+- **MUJ Wizard Programmer 2023**  
+  Achieved the honor as the only freshman to receive this title, coupled with a 3X Student Excellence Award.  
+
+- **Campus Adda – RISE Top 10 Startups in India, 2022**  
+  Co-founded and scaled a mobile application that enhanced campus life for over 10,000 students at Manipal University Jaipur.  
+
+- **Google X Techstars Startup Weekend 2022 – Winner**  
+  Designed and launched *Campus Adda* at Startup Weekend Jaipur, leading to significant adoption and impact within the campus ecosystem.  
+
 
