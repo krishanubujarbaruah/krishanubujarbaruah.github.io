@@ -13,27 +13,26 @@ i believe in the power of play to solve problems and in technology's ability to 
 
 feel free to explore my projects! if you're a high-schooler or undergrad who's interested in getting into human-computer interaction / research, i'm always happy to give advice if you feel like i can be of any help.
 
+i treat my work as a journal of exploration. Every prototype, sketch, or research note is another entry in my ongoing study of how humans and technology can evolve together. i’m fascinated by the “whys” behind user behavior—why we click, why we trust, why we feel connected to certain designs. (this curiosity) drives me to conduct deep research
+
 i am a pre-final year student pursuing Bachelor of Technology in Computer Science and Engineering, at Manipal University Jaipur, India. 
 my goal? To create experiences that make people go "Wow, I didn't know computers could do that!"
 
 ### milestones: 
 
-- **Smart India Hackathon 2024 – Winner**  
-  Developed an innovative solution for a real-world challenge under the world's largest open innovation model.  
+- **smart india hackathon '24 – winner**  
+  developed an innovative solution for a real-world challenge under the world's largest open innovation model.  
 
-- **Participatory Design Conference 2024 – Poster Presenter**  
-  Presented the poster, "Game Development for Artisans to Educate Them About Basic Business Strategies and Keywords," at IIT Bombay.  
+- **participatory design conference '24 – poster presenter**  
+  presented the poster, "Game Development for Artisans to Educate Them About Basic Business Strategies and Keywords," at IIT Bombay.  
 
-- **Google Creator Conversations 2023 – Best Group**  
-  Recognized as the top group out of 80 peers for work on the Notes feature in Search Labs' Edu vertical.  
+- **google creator conversations '23 – best group**  
+  recognized as the top group out of 80 peers for work on the Notes feature in Search Labs' Edu vertical.  
 
-- **MUJ Wizard Programmer 2023**  
-  Achieved the honor as the only freshman to receive this title, coupled with a 3X Student Excellence Award.  
+- **MUJ wizard programmer '23**  
+  achieved the honor as the only freshman to receive this title, coupled with 3X student excellence awards.  
 
-- **Campus Adda – RISE Top 10 Startups in India, 2022**  
-  Co-founded and scaled a mobile application that enhanced campus life for over 10,000 students at Manipal University Jaipur.  
+- **campus adda – RISE top 10 startups in india, '22**  
+  co-founded and scaled a mobile application that enhanced campus life for over 10,000 students at manipal university jaipur.  
 
-- **Google X Techstars Startup Weekend 2022 – Winner**  
-  Designed and launched *Campus Adda* at Startup Weekend Jaipur, leading to significant adoption and impact within the campus ecosystem.  
-
-
+- **google X techstars startup weekend '22 – winner**
